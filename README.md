@@ -8,7 +8,8 @@ Welcome to the YouTube Clone project! This project replicates some of the featur
 - **Video Playback:** Enjoy watching videos in a dedicated playback screen similar to the YouTube interface.
 
 ## Live Demo
- 
+
+ https://imranshaikh9930ytclone.netlify.app/
 
 ## Screenshots
 
